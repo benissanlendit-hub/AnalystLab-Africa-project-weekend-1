@@ -83,7 +83,7 @@ Alternatively, open `Telco_Churn_Analysis.ipynb` in Jupyter to explore the full 
 
 ## Author
 
-Junior Data Analyst Intern, [AnalystLab Africa](https://analystlabafrica.com) Data Analytics Internship Programme.
+Benissan LENDIT Data analyst Intern, [AnalystLab Africa](https://analystlabafrica.com) Data Analytics Internship Programme.
 
 #AnalystLabAfrica
 
